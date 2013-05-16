@@ -1,0 +1,5 @@
+*.log
+.git
+vendor/*
+protected/runtime/*
+public/assets/*
