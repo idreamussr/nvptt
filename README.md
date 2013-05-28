@@ -43,13 +43,17 @@ Task2 - SQL
 =====
 
 create new database in Mysql 5+
-> import dump from ./sql/nv-task-sql.sql
+```
+import dump from ./sql/nv-task-sql.sql
+```
 
 ...
 populate products in database
 execute procedure
 
-> call fill_products(10000); 
+```
+call fill_products(10000); 
+```
 
 you can call this procedure  as many as you want
 ....
